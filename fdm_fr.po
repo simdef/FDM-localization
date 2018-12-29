@@ -943,7 +943,7 @@ msgstr "Se connecter"
 
 msgctxt "RPCLocalization|"
 msgid "Enable seeding"
-msgstr "Autoriser l'ensemencement"
+msgstr "Autoriser le partage"
 
 msgctxt "RPCLocalization|"
 msgid "Progress"
@@ -1138,7 +1138,7 @@ msgstr "En attente"
 
 msgctxt "RPCLocalization|"
 msgid "Stop seeding"
-msgstr "Arrêter l'ensemencement"
+msgstr "Arrêter le partage"
 
 msgctxt "RPCLocalization|"
 msgid "Requesting info..."
@@ -1482,7 +1482,7 @@ msgstr "Démarrer le téléchargement"
 #, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Seeding"
-msgstr "L’ensemencement"
+msgstr "Partage"
 
 msgctxt "RPCLocalization|"
 msgid "Use server time for file creation"
@@ -1921,7 +1921,7 @@ msgstr "Il y a déjà une étiquette du même nom"
 
 msgctxt "RPCLocalization|"
 msgid "Enable sleep mode while seeding torrents"
-msgstr "Autoriser la veille sur l'ensemencement des torrents"
+msgstr "Autoriser la veille sur le partage des torrents"
 
 msgctxt "RPCLocalization|"
 msgid "on"
@@ -2413,7 +2413,7 @@ msgstr "Priorités du fichier changées"
 
 msgctxt "TorrentDownload|"
 msgid "Stopping seeding"
-msgstr "Arrêt de l'ensemencement"
+msgstr "Arrêter le partage"
 
 msgctxt "TorrentDownload|"
 msgid "Sequential downloading enabled"
@@ -2429,7 +2429,7 @@ msgstr "Fusion des localisateurs"
 
 msgctxt "TorrentDownload|"
 msgid "Starting seeding"
-msgstr "Début de l'ensemencement"
+msgstr "Débuter le partage"
 
 msgctxt "TorrentDownload|"
 msgid "Unknown error occurred"
@@ -2694,7 +2694,7 @@ msgstr "Retirer de la liste"
 #, fuzzy
 msgctxt "UIHelper|"
 msgid "Enable seeding"
-msgstr "Autoriser l'ensemencement"
+msgstr "Autoriser le partage"
 
 msgctxt "UIHelper|"
 msgid "Sequential download"
