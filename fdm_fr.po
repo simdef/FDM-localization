@@ -9,7 +9,7 @@ msgstr ""
 "X-Qt-Contexts: true\n"
 
 msgid "Download with FDM"
-msgstr "Téléchargement avec FDM"
+msgstr "Télécharger avec FDM"
 
 msgid "Download selected with FDM"
 msgstr "Téléchargement sélectionné avec FDM"
@@ -461,7 +461,7 @@ msgstr "Suppression d'extension du fichier temporaire"
 
 msgctxt "HttpFileDownload|"
 msgid "Preallocating disk space for download"
-msgstr "Pré localisation d'espace disque pour téléchargement"
+msgstr "Pré-allocation d'espace disque pour le téléchargement"
 
 #, fuzzy
 msgctxt "HttpFileDownload|"
@@ -871,7 +871,7 @@ msgstr "Vitesse de téléchargement :"
 
 msgctxt "RPCLocalization|"
 msgid "Seeds:"
-msgstr "Graines :"
+msgstr "Seeds :"
 
 msgctxt "RPCLocalization|"
 msgid "Domain:"
@@ -891,7 +891,7 @@ msgstr "Pairs :"
 
 msgctxt "RPCLocalization|"
 msgid "Share ratio:"
-msgstr "Taux de partage :"
+msgstr "Ratio de partage :"
 
 msgctxt "RPCLocalization|"
 msgid "Availability:"
@@ -931,7 +931,7 @@ msgstr "Fichiers"
 
 msgctxt "RPCLocalization|"
 msgid "Trackers"
-msgstr "Localisateurs"
+msgstr "Trackers"
 
 msgctxt "RPCLocalization|"
 msgid "Peers"
@@ -939,7 +939,7 @@ msgstr "Pairs"
 
 msgctxt "RPCLocalization|"
 msgid "Log"
-msgstr "Se connecter"
+msgstr "Historique"
 
 msgctxt "RPCLocalization|"
 msgid "Enable seeding"
@@ -967,7 +967,7 @@ msgstr "Mode escargot"
 
 msgctxt "RPCLocalization|"
 msgid "Cancel"
-msgstr "Effacer"
+msgstr "Annuler"
 
 msgctxt "RPCLocalization|"
 msgid "Apply"
@@ -1043,7 +1043,7 @@ msgstr "Le torrent existe déjà"
 
 msgctxt "RPCLocalization|"
 msgid "Want to load its trackers?"
-msgstr "Souhaitez-vous charger ses localisateurs ?"
+msgstr "Souhaitez-vous charger ses trackers ?"
 
 msgctxt "RPCLocalization|"
 msgid "No active downloads"
@@ -1730,7 +1730,7 @@ msgstr "Lancer et mettre en pause les téléchargements aux moments spécifiés"
 
 msgctxt "RPCLocalization|"
 msgid "Enable Scheduler"
-msgstr "Activer le Planificateur"
+msgstr "Activer le planificateur"
 
 msgctxt "RPCLocalization|"
 msgid "Sun"
@@ -2263,7 +2263,7 @@ msgstr "Tout"
 
 msgctxt "RPCLocalization|"
 msgid "Active"
-msgstr "Active"
+msgstr "Actif"
 
 msgctxt "RPCLocalization|"
 msgid "Completed"
@@ -2425,7 +2425,7 @@ msgstr "Téléchargement séquentiel désactivé"
 
 msgctxt "TorrentDownload|"
 msgid "Trackers merged"
-msgstr "Fusion des localisateurs"
+msgstr "Fusion des trackers"
 
 msgctxt "TorrentDownload|"
 msgid "Starting seeding"
